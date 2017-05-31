@@ -1,5 +1,7 @@
 # react-rotating-text
 
+[![npm version](https://badge.fury.io/js/react-native-rotating-text.svg)](https://badge.fury.io/js/react-native-rotating-text)
+
 ![effect showcase](http://i.imgur.com/AC5g7KD.gif)
 
 A simple component to create a typewriter effect where strings are typed out and then deleted. Simply pass in an array of strings and the component will rotate through all of them.
